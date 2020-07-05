@@ -1,0 +1,9 @@
+F:\BISMILLAH TA\ANN\VS\jaringanSarafTiruan\jaringanSarafTiruan\bin\Debug\jaringanSarafTiruan.exe.config
+F:\BISMILLAH TA\ANN\VS\jaringanSarafTiruan\jaringanSarafTiruan\bin\Debug\jaringanSarafTiruan.exe
+F:\BISMILLAH TA\ANN\VS\jaringanSarafTiruan\jaringanSarafTiruan\bin\Debug\jaringanSarafTiruan.pdb
+F:\BISMILLAH TA\ANN\VS\jaringanSarafTiruan\jaringanSarafTiruan\obj\Debug\jaringanSarafTiruan.csprojResolveAssemblyReference.cache
+F:\BISMILLAH TA\ANN\VS\jaringanSarafTiruan\jaringanSarafTiruan\obj\Debug\jaringanSarafTiruan.Form1.resources
+F:\BISMILLAH TA\ANN\VS\jaringanSarafTiruan\jaringanSarafTiruan\obj\Debug\jaringanSarafTiruan.Properties.Resources.resources
+F:\BISMILLAH TA\ANN\VS\jaringanSarafTiruan\jaringanSarafTiruan\obj\Debug\jaringanSarafTiruan.csproj.GenerateResource.Cache
+F:\BISMILLAH TA\ANN\VS\jaringanSarafTiruan\jaringanSarafTiruan\obj\Debug\jaringanSarafTiruan.exe
+F:\BISMILLAH TA\ANN\VS\jaringanSarafTiruan\jaringanSarafTiruan\obj\Debug\jaringanSarafTiruan.pdb
