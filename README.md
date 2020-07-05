@@ -1,1 +1,1 @@
-artificialNeuralNetworkBackPropagationLogicGate
+artificialNeuralNetworkBackPropagation
